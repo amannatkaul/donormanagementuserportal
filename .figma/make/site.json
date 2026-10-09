@@ -1,0 +1,10 @@
+{
+  "description": "Empower individual donors to easily manage their contributions, explore causes, and track their impact through a user-friendly NGO donor portal.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
